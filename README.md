@@ -5,3 +5,5 @@ For SCIAMACHY's Data, it was necessary to use the CODA package in Python, so the
 It uses CODA to import specific parameters necessary for the quality filters of the CH4 data, that were not available with HARP only.
 The package rasterio is used to generate the L3 Data.
 
+[![DOI](https://zenodo.org/badge/475587884.svg)](https://zenodo.org/badge/latestdoi/475587884)
+
