@@ -1,5 +1,5 @@
 # Autora: Corina Sanucci
-# Fecha: 18/03/2021 - continua
+# Fecha: 18/03/2021
 
 # Objetivos:
 #           - Aplicar filtros de calidad al producto CH4 L2 de SCIAMACHY/ENVISAT
@@ -136,6 +136,3 @@ for i in SCIAfiles:
 # Resultados:
 # Se procesaron 20890 archivos .N1 con las órbitas completas de SCIAMACHY/ENVISAT entre el 2002 y el 2006
 # Se generaron 2285 imágenes diarias de CH4 con la calidad recomendada
-
-# Se procesaron 14914 archivos .N1 entre 2007 y 2009 inclusive
-# Se generaron 939 imágenes diarias de CH4 con la calidad recomendada
